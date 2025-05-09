@@ -15,11 +15,6 @@
  <div relative="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
   <h4>
-  - 📚 Currently studying web development and programming<br>
-  - 🤖 Interested in Arduino, electronics, and JavaScript<br>
-  - 🧠 Always curious and open to learning new tools<br>
-  - 🎮 I love video games and anime in my free time<br>
- <h4/>
 </div>
 <h4>
   - 📚 Currently studying web development and programming<br>
@@ -27,6 +22,27 @@
   - 🧠 Always curious and open to learning new tools<br>
   - 🎮 I love video games and anime in my free time<br>
  <h4/>
+
+
+<h3>👨‍🎓 About Me</h3>
+<p>I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!</p>
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- GIF image -->
+  <div>
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
+  </div>
+
+  <!-- Text List -->
+  <div>
+    <h4 style="margin: 0;">
+      📚 Currently studying web development and programming<br>
+      🤖 Interested in Arduino, electronics, and JavaScript<br>
+      🧠 Always curious and open to learning new tools<br>
+      🎮 I love video games and anime in my free time
+    </h4>
+  </div>
+</div>
 
 
 ###
