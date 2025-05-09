@@ -87,3 +87,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- Text Section -->
+  <div style="max-width: 500px;">
+    <h3>👨‍🎓 About Me</h3>
+    <p>
+      I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br>
+      - 📚 Currently studying web development and programming<br>
+      - 🤖 Interested in Arduino, electronics, and JavaScript<br>
+      - 🧠 Always curious and open to learning new tools<br>
+      - 🎮 I love video games and anime in my free time
+    </p>
+  </div>
+
+  <!-- GIF Section -->
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" height="300">
+  </div>
+</div>
+
