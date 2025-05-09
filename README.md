@@ -9,27 +9,18 @@
 <h2 align="center">Hi there 👋, I'm Orgilsaihan</h2>
 <h4 align="center">Student at Indra Institute, Fullstack Developer 🚀</h4>
 
-###
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text section -->
-  <div>
-    <h3>👨‍🎓 About Me</h3>
-    <p>
-      I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br>
-      - 📚 Currently studying web development and programming<br>
-      - 🤖 Interested in Arduino, electronics, and JavaScript<br>
-      - 🧠 Always curious and open to learning new tools<br>
-      - 🎮 I love video games and anime in my free time
-    </p>
-  </div>
-
-  <!-- GIF section -->
-  <div>
-    <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
-  </div>
+### 👨‍🎓 About Me 
+ I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br><p align="left">
+ 
+ <div align="center">
+  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
 
+  - 📚 Currently studying web development and programming<br>
+  - 🤖 Interested in Arduino, electronics, and JavaScript<br>
+  - 🧠 Always curious and open to learning new tools<br>
+  - 🎮 I love video games and anime in my free time<br>
+</p> энэ хоёрыг зэрэгзүүлж хэрхэн тавих вэ
 
 ###
 
