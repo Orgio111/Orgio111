@@ -62,3 +62,17 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orgilsaihan.orgilsaihan" alt="visitor badge"/>
 </div>
+
+
+---
+
+### 🎮 Games I've Made
+
+| Game | Preview | Play |
+|------|---------|------|
+| **Pixel Runner**<br>Simple platformer made with Unity | ![Pixel Runner](https://github.com/username/pixel-runner/raw/main/preview.gif) | [🔗 Play on itch.io](https://yourname.itch.io/pixel-runner) |
+| **Mongol Hero**<br>Adventure game made with HTML/CSS/JS | ![Mongol Hero](https://github.com/username/mongol-hero/raw/main/demo.gif) | [🌐 Play Online](https://username.github.io/mongol-hero) |
+| **Arduino LED Maze**<br>Hardware + code based maze game | ![Arduino Game](https://media.giphy.com/media/IjU3FzVyfKqU4/giphy.gif) | Source code available in [GitHub](https://github.com/username/arduino-maze) |
+
+---
+
