@@ -12,7 +12,7 @@
 ### 👨‍🎓 About Me 
  I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br><p align="left">
  
- <div align="center">
+ <div relative="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
 <h4>
