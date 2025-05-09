@@ -15,14 +15,12 @@
  <div relative="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
-<div style="text-align: right; padding-right: 20px;">
-  <h4>
-    📚 Currently studying web development and programming<br>
-    🤖 Interested in Arduino, electronics, and JavaScript<br>
-    🧠 Always curious and open to learning new tools<br>
-    🎮 I love video games and anime in my free time<br>
-  </h4>
-</div>
+<h4>
+  - 📚 Currently studying web development and programming<br>
+  - 🤖 Interested in Arduino, electronics, and JavaScript<br>
+  - 🧠 Always curious and open to learning new tools<br>
+  - 🎮 I love video games and anime in my free time<br>
+ <h4/>
 
 
 ###
