@@ -3,9 +3,6 @@
 
 
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
-</div>
 
 ###
 
@@ -15,7 +12,10 @@
 ###
 
 ### 👨‍🎓 About Me 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
+</div>
 
 <p align="left">
   I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br>
