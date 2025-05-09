@@ -20,7 +20,7 @@
   - 🤖 Interested in Arduino, electronics, and JavaScript<br>
   - 🧠 Always curious and open to learning new tools<br>
   - 🎮 I love video games and anime in my free time<br>
-</p> энэ хоёрыг зэрэгзүүлж хэрхэн тавих вэ
+</p> 
 
 ###
 
@@ -88,5 +88,25 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>👨‍🎓 About Me</h3>
+    <p>
+      I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br>
+      📚 Currently studying web development and programming<br>
+      🤖 Interested in Arduino, electronics, and JavaScript<br>
+      🧠 Always curious and open to learning new tools<br>
+      🎮 I love video games and anime in my free time<br>
+    </p>
+  </div>
+
+  <!-- GIF Section -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
+  </div>
+
+</div>
 
 
