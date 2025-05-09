@@ -1,3 +1,10 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
@@ -78,15 +85,5 @@
 </div>
 
 
----
 
-### 🎮 Games I've Made
-
-| Game | Preview | Play |
-|------|---------|------|
-| **Pixel Runner**<br>Simple platformer made with Unity | ![Pixel Runner](https://github.com/username/pixel-runner/raw/main/preview.gif) | [🔗 Play on itch.io](https://yourname.itch.io/pixel-runner) |
-| **Mongol Hero**<br>Adventure game made with HTML/CSS/JS | ![Mongol Hero](https://github.com/username/mongol-hero/raw/main/demo.gif) | [🌐 Play Online](https://username.github.io/mongol-hero) |
-| **Arduino LED Maze**<br>Hardware + code based maze game | ![Arduino Game](https://media.giphy.com/media/IjU3FzVyfKqU4/giphy.gif) | Source code available in [GitHub](https://github.com/username/arduino-maze) |
-
----
 
