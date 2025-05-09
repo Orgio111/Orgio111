@@ -5,7 +5,7 @@
 ###
 
 <h2 align="center">Hi there 👋, I'm Orgilsaihan</h2>
-<h4 align="center">Student at Indra Institute, aspiring Developer 🚀</h4>
+<h4 align="center">Student at Indra Institute, Fullstack Developer 🚀</h4>
 
 ###
 
