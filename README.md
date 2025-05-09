@@ -12,13 +12,12 @@
 ###
 
 ### 👨‍🎓 About Me 
-
-<div align="center">
+ I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br><p align="left">
+ 
+ <div align="center">
   <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
 
-<p align="left">
-  I'm Orgilsaihan, a student at <strong>Indra Institute</strong>, passionate about learning technology and building fun projects!<br><br>
   - 📚 Currently studying web development and programming<br>
   - 🤖 Interested in Arduino, electronics, and JavaScript<br>
   - 🧠 Always curious and open to learning new tools<br>
